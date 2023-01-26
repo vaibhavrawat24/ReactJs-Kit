@@ -1,0 +1,6 @@
+npx :- The npx stands for Node Package Execute and it comes with the npm, when you installed npm above 5.2.0 version then automatically npx will installed. It is an npm package runner that can execute any package that you want from the npm registry without even installing that package.
+
+npx :- one yime use
+npm :- stays forever
+
+how to create react app :- npx create-react-app my-app (in powershell shift+right click)
